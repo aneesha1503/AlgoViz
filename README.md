@@ -127,6 +127,12 @@ We love your input! We want to make contributing to AlgoViz as easy and transpar
       </a>
     </td>
   </tr>
+   <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/100" width="100px;" alt="Aneesha Mishra"/><br />
+        <sub><b>JITHENDRA S S</b></sub>
+      </a>
+    </td>
 </table>
 
 ## 📝 License
