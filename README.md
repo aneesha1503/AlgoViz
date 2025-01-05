@@ -120,7 +120,12 @@ We love your input! We want to make contributing to AlgoViz as easy and transpar
         <sub><b>Aneesha Mishra</b></sub>
       </a>
     </td>
-    <!-- Add other team members similarly -->
+     <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/100" width="100px;" alt="Aneesha Mishra"/><br />
+        <sub><b>Kamaakshi Kapoor</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
