@@ -129,7 +129,7 @@ We love your input! We want to make contributing to AlgoViz as easy and transpar
   </tr>
    <td align="center">
       <a href="#">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Aneesha Mishra"/><br />
+        <img src="https://via.placeholder.com/100" width="100px;" alt="JITHENDRA S S"/><br />
         <sub><b>JITHENDRA S S</b></sub>
       </a>
     </td>
