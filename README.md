@@ -110,32 +110,32 @@ We love your input! We want to make contributing to AlgoViz as easy and transpar
     </td>
      <td align="center">
       <a href="#">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="GURUNATH REDDY N A"/><br />
+        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Gurunath.png" width="100px;" alt="GURUNATH REDDY N A"/><br />
         <sub><b>GURUNATH REDDY N A</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Aneesha Mishra"/><br />
+        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Aneesha.png" width="100px;" alt="Aneesha Mishra"/><br />
         <sub><b>Aneesha Mishra</b></sub>
       </a>
     </td>
      <td align="center">
       <a href="#">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Aneesha Mishra"/><br />
+        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Kamaakshi.png" width="100px;" alt="Aneesha Mishra"/><br />
         <sub><b>Kamaakshi Kapoor</b></sub>
       </a>
     </td>
   </tr>
    <td align="center">
       <a href="#">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="JITHENDRA S S"/><br />
+        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Jithendra.png" width="100px;" alt="JITHENDRA S S"/><br />
         <sub><b>JITHENDRA S S</b></sub>
       </a>
     </td>
    <td align="center">
       <a href="#">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="GULNISHAT K"/><br />
+        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Gul.png" width="100px;" alt="GULNISHAT K"/><br />
         <sub><b>GULNISHAT K</b></sub>
       </a>
     </td>
