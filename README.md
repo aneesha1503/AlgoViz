@@ -10,7 +10,7 @@ A beautiful, interactive visualization platform for understanding sorting algori
 
 [Live Demo](#) • [Documentation](#) • [Contributing](#contributing) • [Report Bug](#) • [Request Feature](#)
 
-![AlgoViz Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Portfolio_V3/AlgoViz.png?raw=true)
+![AlgoViz Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/AlgoViz/AlgoViz.png?raw=true)
 
 </div>
 
@@ -104,7 +104,7 @@ We love your input! We want to make contributing to AlgoViz as easy and transpar
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/harshavardhan-md">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Harshavardhan M"/><br />
+        <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/AlgoViz/profile.jpg?raw=true" width="100px;" alt="Harshavardhan M"/><br />
         <sub><b>Harshavardhan M</b></sub>
       </a>
     </td>
