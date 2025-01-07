@@ -10,7 +10,7 @@ A beautiful, interactive visualization platform for understanding sorting algori
 
 [Live Demo](#) • [Documentation](#) • [Contributing](#contributing) • [Report Bug](#) • [Request Feature](#)
 
-![AlgoViz Demo](https://via.placeholder.com/800x400)
+![AlgoViz Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Portfolio_V3/AlgoViz.png?raw=true)
 
 </div>
 
