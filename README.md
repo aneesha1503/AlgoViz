@@ -8,7 +8,7 @@
 
 A beautiful, interactive visualization platform for understanding sorting algorithms.
 
-[Live Demo](#) • [Documentation](#) • [Contributing](#contributing) • [Report Bug](#) • [Request Feature](#)
+[Live Demo](https://harshavardhan-md.github.io/AlgoViz/) • [Documentation](#) • [Contributing](#contributing) • [Report Bug](#) • [Request Feature](#)
 
 ![AlgoViz Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/AlgoViz/AlgoViz.png?raw=true)
 
