@@ -13,7 +13,7 @@ A beautiful, interactive visualization platform for understanding sorting algori
 ![AlgoViz Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/AlgoViz/AlgoViz.png?raw=true)
 
 </div>
-
+ 
 ## ✨ Features
 
 ### 🔄 Interactive Sorting Visualizations
