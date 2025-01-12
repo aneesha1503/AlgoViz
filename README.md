@@ -49,7 +49,7 @@ A beautiful, interactive visualization platform for understanding sorting algori
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/algoviz.git
+git clone https://github.com/harshavardhan-md/algoviz.git
 ```
 
 2. Navigate to project directory
