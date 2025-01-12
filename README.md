@@ -6,7 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A beautiful, interactive visualization platform for understanding sorting algorithms.
+A beautiful, interactive visualization platform for understanding sorting algorithms
 
 [Live Demo](https://harshavardhan-md.github.io/AlgoViz/) • [Documentation](#) • [Contributing](#contributing) • [Report Bug](#) • [Request Feature](#)
 
