@@ -114,18 +114,7 @@ We love your input! We want to make contributing to AlgoViz as easy and transpar
         <sub><b>GURUNATH REDDY N A</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Aneesha.png" width="100px;" alt="Aneesha Mishra"/><br />
-        <sub><b>Aneesha Mishra</b></sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="#">
-        <img src="https://github.com/harshavardhan-md/AlgoViz/blob/main/Kamaakshi.png" width="100px;" alt="Aneesha Mishra"/><br />
-        <sub><b>Kamaakshi Kapoor</b></sub>
-      </a>
-    </td>
+   
   </tr>
    <td align="center">
       <a href="#">
